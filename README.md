@@ -111,7 +111,7 @@ To fulfill strict regulatory audit compliance requirements for health data, appl
   3. If the query succeeds, an entry is written into the centralized `changes_log` table tracking the activity before returning a success state back to the caller page.
   4. If the query fails, changes are caught, no audit log is misattributed, and a `false` boolean is propagated.
 
-<img width="588" height="721" alt="Screenshot 2026-05-18 at 10 37 46" src="https://github.com/user-attachments/assets/7f057773-8e10-4807-a622-6746d6c8f374" />  
+<img width="588" height="721" alt="Screenshot 2026-05-18 at 10 37 46" src="https://github.com/user-attachments/assets/7f057773-8e10-4807-a622-6746d6c8f374" />
 *Figure 4: Audit Trail Service Data Flow Architecture*
 
 * **Administrator Reporting**: The `audit_admin.php` control panel reads directly from the `changes_log` table, translating structural relational audit records into a clean, human-readable tabular interface for system auditors.
