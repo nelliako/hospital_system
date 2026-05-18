@@ -1,0 +1,145 @@
+﻿Username and id: 
+psxnk3-20736945 
+Files
+|____.DS_Store
+|____php-apache
+| |____Dockerfile
+|____mariadb
+| |____Database_coursework
+| | |____hospital_database.sql
+| |____Dockerfile
+| |____1_phpdemos.sql
+| |____2_coursework-2-database.sql
+|____html
+| |____.DS_Store
+| |____index.php
+| |____css
+| | |____mvp.css
+| |____php-demos
+| | |____demo6.php
+| | |____demo7.php
+| | |____demo5.php
+| | |____demo4.php
+| | |____demo1.php
+| | |____index.php
+| | |____demo3.php
+| | |____demo2.php
+| | |____poem.txt
+| | |____db.inc.php
+| | |____demo12.php
+| | |____demo13.php
+| | |____demo11.php
+| | |____demo10.php
+| | |____demo14.php
+| | |____demo15.php
+| | |____demo9.php
+| | |____demo8.php
+| |____cw2
+| | |____user_manual.php
+| | |____user_manual.pdf
+| | |____test_lookup.php
+| | |____patient_lookup.php
+| | |____dashboard.php
+| | |____password_change.php
+| | |____technical_manual.pdf
+| | |____index.php (login page through which the system can be accessed)
+| | |____password_reset.php
+| | |____audit_admin.php
+| | |____Css
+| | | |____bootstrap.css
+| | | |____global.css
+| | |____parking_permit_doctor.php
+| | |____prescribe.php
+| | |____logout.php
+| | |____Includes
+| | | |____loginaction.php
+| | | |____config.php
+| | | |____header.php
+| | | |____footer.php
+| | | |____audit_trail.php
+| | | |____left_menu.php
+| | |____error_page.php
+| | |____edit_doctor.php
+| | |____patient_profile_and_edit.php
+| | |____profile_doctor.php
+| | |____Database 
+| | | |____hospital_database.sql
+| | |____add_doctor.php
+| | |____parking_permit_admin.php
+| | |____nhs.png
+| | |____add_test.php
+| | |____edit_test.php
+| | |____add_patient.php
+| | |____.htaccess
+| |____js-demos
+| | |____index.html
+| | |____jsdemo6.html
+| | |____jsdemo1.html
+| | |____jsdemo3.html
+| | |____jsdemo2.html
+| | |____jsdemo5.html
+| | |____jsdemo4.html
+|____README.md
+|____mariadb-data
+| |____hospital_database
+|____docker-compose.yml
+|____psxnk3_Technical.pdf
+|____psxnk3_UserManual.pdf
+
+
+
+
+
+Resources consulted
+
+
+Bootstrap (2025) Bootstrap 5.3 Documentation. Available at: https://getbootstrap.com/ (Accessed: December 2025).
+
+
+Stack Exchange (2025) Stack Overflow. Available at: https://stackoverflow.com/ (Accessed: December 2025).
+
+
+The PHP Group (2025) PHP Manual. Available at: https://www.php.net/manual/en/ (Accessed: November 2025).
+
+
+W3Schools (2025) SQL, PHP, and CSS Tutorials. Available at: https://www.w3schools.com/ (Accessed: December 2025).
+
+
+Fox, J. et al. (2025) PHP: The Right Way. Available at: https://phptherightway.com/ (Accessed: December 2025).
+
+
+Murach, J. and Harris, R. (2022) Murach's PHP and MySQL (4th Edition). Fresno, CA: Mike Murach & Associates.
+
+
+Way, J. (2025) Laracasts: PHP for Beginners. Available at: https://laracasts.com/series/php-for-beginners (Accessed: November 2025).
+
+
+OWASP (2025) Logging Cheat Sheet. Available at: https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html (Accessed: November 2025).
+
+
+Refactoring.Guru (2025) Decorator Design Pattern in PHP. Available at: https://refactoring.guru/design-patterns/decorator/php/example (Accessed: December 2025).
+
+
+
+
+To create diagrams:
+
+
+SmartDraw, LLC (2025) SmartDraw. [Online Software]. Available at: https://www.smartdraw.com/ (Accessed: December 2025).
+
+
+Mermaid-js (2025) Mermaid: Generate diagrams from markdown-like text. Available at: https://mermaid.js.org/ (Accessed: December 2025).
+
+
+Lucid Software Inc. (2025) Lucidchart. [Online Software]. Available at: https://www.lucidchart.com/ (Accessed: November 2025).
+
+
+Used one of the diagrams from the Lecture (November 24th 2025) as the starting point  for Figure 1 in technical_manual.pdf
+
+
+
+
+Other:
+
+
+I tried to reuse as much of my code from one page to another. Therefore, inline references in code (comments) are provided only where I use the concept for the first time, not on every page.

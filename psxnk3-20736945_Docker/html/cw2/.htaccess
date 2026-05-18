@@ -1,0 +1,8 @@
+# 404 handles "Page Not Found" 
+ErrorDocument 404 /cw2/error_page.php
+
+# 403 handles "Forbidden" (e.g., trying to open a protected folder)
+ErrorDocument 403 /cw2/error_page.php
+
+# 500 handles "Internal Server Error" (e.g., PHP crashes)
+ErrorDocument 500 /cw2/error_page.php
