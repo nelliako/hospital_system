@@ -1,5 +1,8 @@
 # Hospital Management System - Technical Documentation
 
+Video Demo:
+https://www.loom.com/share/dcc610109a214aca85a3632102d66466 
+
 An end-to-end web-based Hospital Management System designed for QMC doctors and administrators to securely access and manage patient data. Built on a modular LAMP stack using Docker containerization, the system is engineered to handle data scaling and seamless feature expansion.
 
 ---
